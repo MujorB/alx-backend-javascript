@@ -3,3 +3,5 @@ babel.config.js
 .eslintrc.js
 node_modules/
 package.json
+test-files/
+*main.js
